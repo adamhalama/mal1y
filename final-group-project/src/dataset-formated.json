@@ -1,0 +1,46 @@
+[
+  {
+    "it": "Buttero' via la spazzatura.",
+    "fr": "Je vais jeter les ordures.",
+    "id": "daily_dialog_0_0_1",
+    "text": "I'll throw out the garbage .",
+    "label": 0,
+    "dataset": "daily_dialog",
+    "license": "CC BY-NC-SA 4.0",
+    "de": "Ich werfe den M\u00fcll raus.",
+    "es": "Voy a tirar la basura."
+  },
+  {
+    "it": "Allora Dick, che ne dici di prendere un caffe' per stasera?",
+    "fr": "Dick, pourquoi ne pas prendre un caf\u00e9 pour ce soir?",
+    "id": "daily_dialog_0_1_0",
+    "text": "So Dick , how about getting some coffee for tonight ?",
+    "label": 1,
+    "dataset": "daily_dialog",
+    "license": "CC BY-NC-SA 4.0",
+    "de": "Dick, wie w\u00e4r's mit Kaffee f\u00fcr heute Abend?",
+    "es": "As\u00ed que Dick, \u00bfqu\u00e9 tal si tomamos un caf\u00e9 para esta noche?"
+  },
+  {
+    "it": "Andiamo, si pu\u00f2 almeno provare un po ', a parte la sigaretta.",
+    "fr": "Allez, tu peux au moins essayer un peu, \u00e0 part ta cigarette.",
+    "id": "daily_dialog_0_1_2",
+    "text": "Come on , you can at least try a little , besides your cigarette .",
+    "label": 0,
+    "dataset": "daily_dialog",
+    "license": "CC BY-NC-SA 4.0",
+    "de": "Komm schon, du kannst wenigstens ein bisschen versuchen, au\u00dfer deiner Zigarette.",
+    "es": "Vamos, al menos puedes probar un poco, adem\u00e1s de tu cigarrillo."
+  },
+  {
+    "it": "Cosa c'\u00e8 di sbagliato in questo? La sigaretta e' la cosa per cui impazzisco.",
+    "fr": "Qu'est-ce qui ne va pas avec \u00e7a? La cigarette est la chose pour laquelle je deviens folle.",
+    "id": "daily_dialog_0_1_3",
+    "text": "What \u2019 s wrong with that ? Cigarette is the thing I go crazy for .",
+    "label": 4,
+    "dataset": "daily_dialog",
+    "license": "CC BY-NC-SA 4.0",
+    "de": "Was ist daran falsch? Zigarette ist die Sache, f\u00fcr die ich verr\u00fcckt werde.",
+    "es": "\u00bf Qu\u00e9 tiene de malo? El cigarrillo es por lo que me vuelvo loco."
+  }
+]
